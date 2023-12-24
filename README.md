@@ -8,8 +8,8 @@ The Autonomous Patient Care Robot is an innovative solution revolutionizing heal
 **Hardware:**
 - Raspberry Pi 4B
 - Arduino Mega
-- LIDAR (A1M8)
-- N20 Motors with Encoders (IG32E-05K)
+- RPLIDAR A1M8
+- N20 Motors with Encoders
 - Various sensors: Ultrasonic, Infrared
 - Cameras: Raspberry Pi Camera Module
 
