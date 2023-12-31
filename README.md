@@ -9,25 +9,32 @@ The video can be found here [video link](https://youtu.be/6Nv3aHWfnFs)
 ## Technology Used 
 
 ## Hardware
-- Raspberry Pi 4B
-- Arduino Mega
+- Raspberry Pi 4B (4GB RAM)
+- Arduino Uno R3
 - RPLIDAR A1M8
-- N20 Motors with Encoders
-- Various sensors: Ultrasonic, Infrared
-- Cameras: Raspberry Pi Camera Module
+- N20 Micro Metal Gear Motors with Encoders
+- L293D Motor Driver
+- LM7805 Voltage Regulator
+- Wheels (4cm diameter)
+- Lithium-ion Battery (3.7 Volts)
+- Connecting Cables
 
 ## Software
 - Robot Operating System (ROS2)
-- Python, C++
+- Nav2 Stack
+- Python
+- C++
+- Arduino Programming
 - OpenCV for Computer Vision
-- Voice recognition libraries
+  
+## Packages Used:
+- **ros2_control** for interfacing raspberry pi with arduino
+- **slam_toolbox** for generating map
+- **rplidar_ros** for publishing scan data from lidar
+- **amcl** for localizing
 
-## Components Used 
-- **Microcontrollers:** Raspberry Pi 4B, Arduino Mega
-- **Sensors:** LIDAR, Ultrasonic Sensors, Infrared Sensors
-- **Motors:** N20 Micro Metal Gear Motors with Encoders
-- **Cameras:** Raspberry Pi Camera Module
-- **Power Sources:** Batteries, Power Bank
+## Controllers Used:
+- **MPPI Controller** to effectively follow the path
 
 ## Usage 
 The patient care robot is designed for seamless integration into healthcare settings. It autonomously manages medication schedules, continuously monitors patient vitals, and enables communication between patients and healthcare providers through a user-friendly interface.
