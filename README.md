@@ -6,6 +6,9 @@ The Autonomous Patient Care Robot is an innovative solution revolutionizing heal
 ## Prototpe Model
 The video can be found here [video link](https://youtu.be/6Nv3aHWfnFs)
 
+![image](https://github.com/vimalgrace/patient_care_robot/assets/91270314/b19c905d-9ad7-462c-9be2-85d3eb4aef62)
+
+
 ## Block Diagram
 ![image](https://github.com/vimalgrace/patient_care_robot/assets/91270314/699f8426-6bd6-45ff-8229-1c1935a640dc)
 
