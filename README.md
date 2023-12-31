@@ -30,8 +30,5 @@ The Autonomous Patient Care Robot is an innovative solution revolutionizing heal
 - **Cameras:** Raspberry Pi Camera Module
 - **Power Sources:** Batteries, Power Bank
 
-**Video Demonstration:** 
-Here is the prototype of our model [video link](https://youtu.be/6Nv3aHWfnFs)
-
 **Usage:** 
 The patient care robot is designed for seamless integration into healthcare settings. It autonomously manages medication schedules, continuously monitors patient vitals, and enables communication between patients and healthcare providers through a user-friendly interface.
