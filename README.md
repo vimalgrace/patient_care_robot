@@ -6,6 +6,9 @@ The Autonomous Patient Care Robot is an innovative solution revolutionizing heal
 ## Prototpe Model
 The video can be found here [video link](https://youtu.be/6Nv3aHWfnFs)
 
+## Block Diagram
+![image](https://github.com/vimalgrace/patient_care_robot/assets/91270314/699f8426-6bd6-45ff-8229-1c1935a640dc)
+
 ## Technology Used 
 
 ## Hardware
@@ -20,7 +23,8 @@ The video can be found here [video link](https://youtu.be/6Nv3aHWfnFs)
 - Connecting Cables
 
 ## Software
-- Robot Operating System (ROS2)
+- Ubuntu 22.04 LTS
+- Robot Operating System (ROS2) (Distro : Humble)
 - Nav2 Stack
 - Python
 - C++
@@ -38,3 +42,7 @@ The video can be found here [video link](https://youtu.be/6Nv3aHWfnFs)
 
 ## Usage 
 The patient care robot is designed for seamless integration into healthcare settings. It autonomously manages medication schedules, continuously monitors patient vitals, and enables communication between patients and healthcare providers through a user-friendly interface.
+
+
+
+
